@@ -6,5 +6,5 @@ namespace App\Http\Controllers\CustomClass;
 
 class Helper
 {
-    public static $domain='http://localhost:8888/shop/public/';
+    public static $domain='http://localhost:8000/shop/public/';
 }
